@@ -1,0 +1,46 @@
+body{
+	background: #FFFFFF;
+
+}
+header nav{ 
+	background:#FFFFFF;
+		overflow:hidden;
+}
+header nav ul{
+list-style: none;
+
+}
+header nav ul li{
+	float: left;
+}
+header nav ul li a{
+	padding: 10px 20px;
+	display: block;
+	color: #0000FF;
+	text-decoration: none; 
+}
+header nav ul li a:hover{
+	background: #BDBDBD;
+}
+div{
+	width:100%;
+	background:#FFFFFF;
+	border-style:inset;
+	float:left;
+}
+.MAIN{
+	width: 60%;
+	float: right;
+	background: #2E2EFE;
+}
+aside{
+	width: 38%;
+	background: #2E2EFE;
+	padding:90px;
+	box-sizing:border-box;
+}
+div{
+	margin: 0px;
+	border-style: double;
+	background: #2E2EFE;
+}
